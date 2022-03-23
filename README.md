@@ -34,6 +34,6 @@ This Services do not address anyone under the age of 18. We do not knowingly col
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
 <h2>Contact Us</h2>
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
-Contact Information:
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.<p>
+Contact Information:<p>
 Email: eonezy@gmail.com
